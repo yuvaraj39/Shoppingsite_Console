@@ -1,0 +1,15 @@
+C:\Users\Yuva\Desktop\Shoppingsite_Console\bin\Debug\net6.0\Shoppingsite_Console.exe
+C:\Users\Yuva\Desktop\Shoppingsite_Console\bin\Debug\net6.0\Shoppingsite_Console.deps.json
+C:\Users\Yuva\Desktop\Shoppingsite_Console\bin\Debug\net6.0\Shoppingsite_Console.runtimeconfig.json
+C:\Users\Yuva\Desktop\Shoppingsite_Console\bin\Debug\net6.0\Shoppingsite_Console.dll
+C:\Users\Yuva\Desktop\Shoppingsite_Console\bin\Debug\net6.0\Shoppingsite_Console.pdb
+C:\Users\Yuva\Desktop\Shoppingsite_Console\obj\Debug\net6.0\Shoppingsite_Console.csproj.AssemblyReference.cache
+C:\Users\Yuva\Desktop\Shoppingsite_Console\obj\Debug\net6.0\Shoppingsite_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuva\Desktop\Shoppingsite_Console\obj\Debug\net6.0\Shoppingsite_Console.AssemblyInfoInputs.cache
+C:\Users\Yuva\Desktop\Shoppingsite_Console\obj\Debug\net6.0\Shoppingsite_Console.AssemblyInfo.cs
+C:\Users\Yuva\Desktop\Shoppingsite_Console\obj\Debug\net6.0\Shoppingsite_Console.csproj.CoreCompileInputs.cache
+C:\Users\Yuva\Desktop\Shoppingsite_Console\obj\Debug\net6.0\Shoppingsite_Console.dll
+C:\Users\Yuva\Desktop\Shoppingsite_Console\obj\Debug\net6.0\refint\Shoppingsite_Console.dll
+C:\Users\Yuva\Desktop\Shoppingsite_Console\obj\Debug\net6.0\Shoppingsite_Console.pdb
+C:\Users\Yuva\Desktop\Shoppingsite_Console\obj\Debug\net6.0\Shoppingsite_Console.genruntimeconfig.cache
+C:\Users\Yuva\Desktop\Shoppingsite_Console\obj\Debug\net6.0\ref\Shoppingsite_Console.dll
